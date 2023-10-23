@@ -1,0 +1,4 @@
+https://spa-test.alexinea.com/
+https://spa-test.alexinea.com/?/example
+https://spa-test.alexinea.com/?/example/two-deep&field1=foo~and~field2=bar#boom!
+https://spa-test.alexinea.com/?/sitemap-link-generator
